@@ -5,7 +5,8 @@ A jorney by AWS Networking VPC
 Imagine that you are a  Colud Engineer at Cloud-bits company. You have be asked by your company to configure and deploy a new Application, with a fault-tolerance design, highly availabe, reliabile and scalable.
 After you met with the dev-team and undestand that the new app was desiged and developed as a multi-tier architecture, you decide deploying the app in a single **Amazon VPC** and replicate it through multiple subnets configured across multiple Availability Zones
 
-#Include Design of infrastructure here#
+![NewApp-Architecture drawio](https://github.com/endybits/aws-vpc/assets/22806426/891f3e8c-a220-469a-8e8e-0e3512986268)
+
 
 Stage 1.
 
